@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/JeanCarlos-Quesada/LearningWithPlatzi/issues"
   },
-  "homepage": "https://github.com/JeanCarlos-Quesada/LearningWithPlatzi#readme"
+  "homepage": "https://github.com/JeanCarlos-Quesada/LearningWithPlatzi#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
